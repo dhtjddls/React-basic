@@ -1,5 +1,8 @@
 .btn {
-    background-color: orangered;
-    color: white;
-    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+    color: black;
+    margin-left: 10px;
+    font-size: 0.9em;
+    font-weight: bold;
+    border: none;
 }
